@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1616679856">
+    <data-source source="LOCAL" name="Rails v_trac_viet: development" uuid="5ba01dec-ad36-46ca-a3f8-d29ed46a4df2">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:v_trac_viet_development</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails v_trac_viet: test" uuid="b9bd34a4-103b-4db0-8724-17dbbf1fd252">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:v_trac_viet_test</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails v_trac_viet: production" uuid="383652fb-c27d-4eab-a45a-fa638a0e9417">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:v_trac_viet_test</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
